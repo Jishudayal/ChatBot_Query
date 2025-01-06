@@ -1,0 +1,11 @@
+
+azure-functions
+numpy
+faiss-cpu
+openai
+pymongo
+azure-storage-blob
+scikit-learn
+azure-identity
+fuzzywuzzy
+python-Levenshtein
